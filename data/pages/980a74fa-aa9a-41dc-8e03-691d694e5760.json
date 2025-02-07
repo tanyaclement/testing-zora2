@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-07T13:47:33.692Z",
+  "created_by": "tanyaclement",
+  "title": "testing .txt",
+  "slug": "testing-txt",
+  "updated_at": "2025-02-07T13:47:33.692Z",
+  "updated_by": "tanyaclement",
+  "parent": "28c58f9e-f508-45f1-9577-00d9925276d2",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "84dfc370-d5f6-4ea2-a594-c0b776631c00"
+  }
+}

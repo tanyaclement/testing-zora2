@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "caae30a8-ab9c-4e1f-ada6-1671919b3e8e": {
+      "label": "testing .txt",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "testing .txt",
+  "created_at": "2025-02-07T13:47:33.487Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-02-07T13:47:33.487Z",
+  "updated_by": "tanyaclement"
+}
