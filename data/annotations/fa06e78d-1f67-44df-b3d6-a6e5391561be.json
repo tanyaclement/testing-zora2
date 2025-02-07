@@ -1,5 +1,5894 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "uuid": "df58ab2c-4999-4c95-a0cd-105e61c83203",
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's great because someone did tell me, you know, I never heard of Whoopi Goldberg"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7719d71c-52c4-4724-85cc-11f8d665a691",
+      "start_time": 8.76,
+      "end_time": 14.92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and this friend of Robert's when I was with Robert said to him and to me, you know, that"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bf4bb8de-6ea1-4afd-9e68-98de11457acc",
+      "start_time": 14.92,
+      "end_time": 19.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "there's this wonderful woman at the Rose Theater, you should go and see her, you know, because"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bcfe8b05-674c-4fb1-9082-b4a04dde4c7c",
+      "start_time": 19.4,
+      "end_time": 25.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "he knew we were looking down and I loved her immediately. So, you know, he could very well"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "81a6717f-a640-4338-950d-286a0b392ee4",
+      "start_time": 25.36,
+      "end_time": 27.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "have read this and thought, you know."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6bdfd891-fb9a-47bb-a14d-3f04ed062da6",
+      "start_time": 27.48,
+      "end_time": 31.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the same time, I'm not sure if it was before or after San Francisco, but she did do these"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d1aa46bf-e60c-448b-b946-03173664694c",
+      "start_time": 31.48,
+      "end_time": 36.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "various monologues at that point. I guess I just read the book at the same time."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dfb738f6-837e-4fde-bacd-8d2fa8720c73",
+      "start_time": 36.48,
+      "end_time": 43.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Amazing. An early reader. Wonderful."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0a86edbd-8ce1-46bf-b7d0-aaf0fc014810",
+      "start_time": 43.48,
+      "end_time": 46.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it's the best thing she's ever done."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d6c25647-b73c-4efe-add8-3221d68f9cbc",
+      "start_time": 46.48,
+      "end_time": 48.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is. I agree. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d9b3bb34-50e4-4dca-b21b-ed03686cc219",
+      "start_time": 48.48,
+      "end_time": 55.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, much of my work has been about encountering what is absolutely taboo, not just wife beating"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1f52f124-9c9d-46ff-b2c2-179884331bab",
+      "start_time": 55.48,
+      "end_time": 60.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and child molestation, but genital mutilation, interracial level, all of that. It's been"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "25d3698c-6e3c-4520-bafb-1ab64a77a38b",
+      "start_time": 60.48,
+      "end_time": 64.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "very exciting to write about what hasn't been written and to understand that by doing that"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8b3683be-516a-4a8c-96ac-4859535c1769",
+      "start_time": 64.48,
+      "end_time": 70.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you are making a mirror for people. That's what you said. And I remember also a couple"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2a0065cc-42c5-45bc-b301-e5bd28326b3d",
+      "start_time": 70.48,
+      "end_time": 77.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of years ago, I had an idea for a book called The Book of Life. It was a book that I wrote"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "feb0a029-56ef-407c-8c1b-2381ff40004b",
+      "start_time": 77.48,
+      "end_time": 83.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and I had a panel discussion with some women's theater group of women playwrights."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4aa5d78c-b3e8-460a-b914-ec5161e80d3f",
+      "start_time": 83.48,
+      "end_time": 88.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the question I raised to all the women was Suzanne Laurie Parks in Wendy, Washington, and others."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ac7c5ba7-b854-42f4-ba04-58f42e592b83",
+      "start_time": 88.48,
+      "end_time": 94.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I said, are there any subjects that are taboo for you as writers? Right."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "375e4dfc-d5a5-4d4e-a474-d202fafae51b",
+      "start_time": 94.48,
+      "end_time": 99.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Suzanne Laurie spoke up right away. She said, any time that I hear that a subject is taboo,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "318673dd-a3a0-42d8-991b-a64a605439cb",
+      "start_time": 99.48,
+      "end_time": 105.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "she said, that's what I want to write about. Yes. And I thought, in a sense, that's almost what you were saying."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ba209233-9a42-4667-b82c-1ce02284a17b",
+      "start_time": 105.48,
+      "end_time": 113.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The great nature of the controversy over it makes you want to write about it. Is that your follow up?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f82af1d4-ef52-4a2f-b23b-ce2d429a3aa0",
+      "start_time": 113.48,
+      "end_time": 119.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it's about liberation for me. It's about seeing an area in which people are not free"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2af2bb19-60a3-4619-822e-1fe681494984",
+      "start_time": 119.48,
+      "end_time": 126.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and having such a strong instinct for freedom and wanting people to have it, that it's almost"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "44edc6ec-3fee-41d7-a766-45acae0cba58",
+      "start_time": 126.48,
+      "end_time": 131.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "unbearable to know that somebody is not having at least the possibility."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dcb248bf-050a-4e6e-bb31-9c9e20fc6022",
+      "start_time": 131.48,
+      "end_time": 139.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, yeah. And then if you add to that, that there are subjects that are literally taboo."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1ea7800d-2fb3-4769-96ae-d5572751118d",
+      "start_time": 139.48,
+      "end_time": 147.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, they kill people in some countries who even talk about female genital mutilation."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3b9aeebe-a951-4d2d-8334-f450681ce000",
+      "start_time": 148.48,
+      "end_time": 156.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, for instance, did you know the first woman, black woman, the African woman in South Africa,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a6fdc5af-2cda-4bec-922d-b9f7d31a5dc0",
+      "start_time": 156.48,
+      "end_time": 161.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "who publicly declared that she had AIDS, was stoned to death by her community?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "233afbdc-0679-4140-88e3-b6bb3d23700a",
+      "start_time": 161.48,
+      "end_time": 170.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "See, I mean, so something like that, when you hear something like that, you think, my God,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ac867fcf-cc05-4d45-8baf-433cf4bae64f",
+      "start_time": 170.48,
+      "end_time": 179.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you cannot then let all the rest of the women in this country think that if they say they're sick,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f449d100-2488-41cd-ae96-247d3a76a1cf",
+      "start_time": 179.48,
+      "end_time": 188.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they're going to be stoned to death. You cannot. So immediately, that would, you know,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c16622f0-af21-4d89-8207-ae8cb634dede",
+      "start_time": 188.48,
+      "end_time": 195.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "however, I mean, I didn't have to because there are all these other people now who are just as shocked,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7e6e98ee-71ae-480b-87bd-7ce575afc267",
+      "start_time": 195.48,
+      "end_time": 200.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "just as upset, and in fact, you know, they re-educated the people in the community,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8b17d11a-f8d0-49c6-bc1d-c6e9e61782d3",
+      "start_time": 200.48,
+      "end_time": 205.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and they've had a big education campaign in South Africa, and they now consider this woman,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7e904133-8f98-44b4-a37f-66cc1de09744",
+      "start_time": 205.48,
+      "end_time": 211.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you know, a kind of hero because she did have the courage. I mean, she'd been infected by her husband."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c27ac537-a322-4dcb-87d5-7b3c0b9fe900",
+      "start_time": 211.48,
+      "end_time": 221.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then, you know, to gather her courage and say for the first AIDS Awareness Day they had,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d8b0c6c8-98b6-4d27-97d0-e8c88ab1cbc4",
+      "start_time": 221.48,
+      "end_time": 225.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and to be stoned, I mean, isn't it just?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "834e82e7-64bb-4093-855f-b7639f73c2ac",
+      "start_time": 225.48,
+      "end_time": 231.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is that the sort of thing that you might want to write about?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "21afd70a-8309-49f4-9552-619d6dddda0f",
+      "start_time": 231.48,
+      "end_time": 248.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maybe, but I don't know. I mean, you know, I feel, you know, it's just, it's just that, you know,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c6de32d1-ffdb-4b64-bbba-c2ecc7b7d3c2",
+      "start_time": 248.48,
+      "end_time": 259.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I really do get it that I've been given something really precious, and I have to wait."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e49f9615-5183-44b6-b873-6550c922f7f4",
+      "start_time": 259.48,
+      "end_time": 267.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have to wait until I really know, you know, that it's time to use it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0ca2b15f-f5b0-430d-97c9-09f115e5cc23",
+      "start_time": 268.48,
+      "end_time": 283.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can't just, and when it's clear that this is for me to do, then I, you know, I can act."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "491d5a3c-8055-4fbb-bb27-7027412f18a1",
+      "start_time": 283.48,
+      "end_time": 289.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And see, this is what meditation does for you. It makes you able to wait."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "93c3be46-cdab-4eaa-9cf5-f5dd9e9686e9",
+      "start_time": 289.48,
+      "end_time": 301.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, there's a danger, I suppose, in people wanting to use you. I think of that anecdote about, was it Ford? Which butcher used your picture?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "483ae854-36eb-4313-b88c-354418465411",
+      "start_time": 301.48,
+      "end_time": 304.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "People try all kinds of things."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f8963bc7-6691-44fb-b875-5803ad6eac1c",
+      "start_time": 304.48,
+      "end_time": 307.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are the things that come across?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ed230cb2-4c81-4631-bf01-142bf6007a10",
+      "start_time": 307.48,
+      "end_time": 315.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the most painful one, actually, is just the people who want me to endorse books, I mean, and blurb things."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c290e7e5-3f5a-46ce-b380-b3a642d794e5",
+      "start_time": 316.48,
+      "end_time": 326.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I do a lot of them because they are very, you know, necessary and important, but sometimes I feel it's just too much."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "140c7908-f20c-4fd4-a3bb-690512e2c5ff",
+      "start_time": 326.48,
+      "end_time": 336.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, I can't read all the books. I can't see all the films. I can't, you know, I can't respond to all the requests for, you know, whatever."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d298dc93-992d-497d-a77c-43b9ef91f5b7",
+      "start_time": 337.48,
+      "end_time": 352.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I actually had to change my assistant from a woman who was completely accommodating, tried to be, you know, at my expense, to one who was able to just say, well, no, she can't do that."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bea742c7-da33-442e-9d9f-375d6bafe0cf",
+      "start_time": 352.48,
+      "end_time": 362.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because, as you know, the need is great, I mean, you know, for the change that we need to have happen."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "41106352-d4c7-4913-9d09-0fad63f3d960",
+      "start_time": 362.48,
+      "end_time": 375.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And when people feel like you can help it, I mean, you know, and you can't blame them for wanting you to help, but there's just so much of me or you or, you know, whoever."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a2a85b57-404b-42f6-b5c5-cb752cbe574a",
+      "start_time": 375.48,
+      "end_time": 393.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it's also meaningful to those writers, for example, that you would, you know, in the same way with Oprah when she does put a book on her program, it automatically changes lives."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e59d280d-c8ac-4312-8ad8-854a32813c55",
+      "start_time": 393.48,
+      "end_time": 405.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Exactly, yeah. I have such admiration for her. You know, I don't watch television, but, you know, you don't have to. She's such a force, you know."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "10de36b8-9ec8-42ad-902a-e682e10af879",
+      "start_time": 405.48,
+      "end_time": 406.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can't miss her."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "03334480-b819-4028-aa0c-df183620faa7",
+      "start_time": 406.48,
+      "end_time": 422.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, you can't miss her. And her impact has been, I think, really incredibly positive and, you know, miraculous. I mean, here she is, this woman from Mississippi, and, you know, I'm just amazed."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "86d03dff-c3a8-4c1b-bdae-b96cc0dd6db4",
+      "start_time": 423.48,
+      "end_time": 429.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are you walking on a book tour? Is this a book tour?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cc57fbfe-55bd-4eb2-8c19-2553626ec280",
+      "start_time": 429.48,
+      "end_time": 447.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is. I go to, I do a Barnes and Noble reading tonight, and then I go to Boston, and then I go home for the weekend, and then I go up to Seattle and Portland, L.A., another weekend at home, and then I go to the south."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ae5cd67a-6163-40c5-856b-f0a231e543b9",
+      "start_time": 447.48,
+      "end_time": 449.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are you going to read today?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "534d42d0-93f6-47ab-848d-0315d6f3f943",
+      "start_time": 450.48,
+      "end_time": 465.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know. I just got to wait until I get there and I feel how it feels, and then I'll know. Another thing meditation does, it makes you in the moment. You trust the moment."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b95867b8-a02e-4d15-b264-6e7ba8629701",
+      "start_time": 465.48,
+      "end_time": 469.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's a good lesson. Can you always trust the moment?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "aa9ba5bd-eda8-4cd8-9865-fac14dc8749d",
+      "start_time": 469.48,
+      "end_time": 471.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it's the only thing you have."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "607a1d89-72f9-4333-93f1-be0626e4b0db",
+      "start_time": 471.48,
+      "end_time": 472.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6c6b92c7-2ece-4a54-94f4-e8448759310d",
+      "start_time": 475.48,
+      "end_time": 478.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, someone might stand up and ask, you know, a very offensive question or something."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f7bb206c-cc90-4bee-ada5-5338863c9808",
+      "start_time": 478.48,
+      "end_time": 483.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, they have. Believe me. Doesn't matter."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4c9eff31-f550-4b87-b9c1-7d79a3598c1c",
+      "start_time": 483.48,
+      "end_time": 486.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You don't respond with meditation, do you?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "933511dc-f104-46c2-b2a1-6ecf9a281f52",
+      "start_time": 486.48,
+      "end_time": 493.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I respond with whatever is in the moment for me, and sometimes they're shocked. And sometimes so am I."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5b866e7c-df70-4ba0-b095-d5358b3aa42a",
+      "start_time": 493.48,
+      "end_time": 497.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tell me something. Why pretend? Do you point to any of the incidents?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e75b46c4-dcf0-42fd-a79d-e91f531fae5e",
+      "start_time": 497.48,
+      "end_time": 502.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, God. My memory's not that good. But it's just that, um."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5356730f-c2d3-4d0c-8f24-05242365a650",
+      "start_time": 503.48,
+      "end_time": 509.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dessert if you prefer. We have cappuccinos, espresso, lattes, regular decaf coffins."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bd9587dd-b76b-4c6f-b120-c64530ba3418",
+      "start_time": 509.48,
+      "end_time": 511.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One special dessert."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "af66bfa8-7bb5-488e-afdc-c0f995eba1e9",
+      "start_time": 511.48,
+      "end_time": 512.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think so. Not for me."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cc82c9c7-875f-44fd-8b1c-684b6203f73d",
+      "start_time": 512.48,
+      "end_time": 513.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They're very good if you like dessert."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "424b3a0a-c7e0-4d79-a5df-6f763edd9b16",
+      "start_time": 513.48,
+      "end_time": 521.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The dessert special today is like espresso creme brulee with sambuco whipped cream with a fast-fry cookie."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1c8c8b57-2940-46b3-ac40-eb451884093b",
+      "start_time": 525.48,
+      "end_time": 526.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coffee or tea?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7a6017dd-7f13-4da0-8e43-b383c07002a0",
+      "start_time": 526.48,
+      "end_time": 527.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're going to have anything?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "797ef94d-ba28-4d75-94cc-738c8f2f851d",
+      "start_time": 527.48,
+      "end_time": 528.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll have coffee."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6d893c67-5531-43a2-9477-5055d898786b",
+      "start_time": 528.48,
+      "end_time": 530.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, I'll have tea. Do you have herbal tea?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "defea5b6-7abf-4d6d-a342-6d1734c3978c",
+      "start_time": 530.48,
+      "end_time": 531.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Peppermint and chamomile."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6274cb56-d82e-4060-921d-51a6046136e1",
+      "start_time": 531.48,
+      "end_time": 532.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good. Chamomile."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "17f42572-542c-4e4a-879e-4cd88d747c7c",
+      "start_time": 548.48,
+      "end_time": 550.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anyway, can you think of an incident?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0283aac4-67ac-4cf1-a345-1bba2dd42af9",
+      "start_time": 550.48,
+      "end_time": 553.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh. Worst incident. Oh."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d570c52e-0e19-4b40-88cc-0947320b317f",
+      "start_time": 561.48,
+      "end_time": 563.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have any information about the incident?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ee986cd5-81e9-48fe-84cf-f46194503fb8",
+      "start_time": 566.48,
+      "end_time": 574.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh. I can't really. I mean, there's so many, you know, that seem borderline. But not so much anymore."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7c2eb206-9cca-424c-83fd-5fba5019e993",
+      "start_time": 574.48,
+      "end_time": 584.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, I think when people would get up and, you know, try to tell me that I should not have made a movie of The Color Purple,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7fc4b00a-fe5b-4281-b5ca-cdbfac25dc08",
+      "start_time": 584.48,
+      "end_time": 591.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "or that I should not be involved in trying to stop FGM."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "255adb68-90d8-450c-9a83-e35a1f2cfdf4",
+      "start_time": 594.48,
+      "end_time": 612.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But the funny thing is that, you know, when you feel like you're living your life as close to the way, you know, you have to,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6a71e211-beb6-4883-9ac3-e9a162a722d0",
+      "start_time": 612.48,
+      "end_time": 621.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, just because of your own spirit, and you answer out of that, it takes away the sting of the hostility."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8eb8cbbd-cf0c-4779-9eba-be7ae0473b5a",
+      "start_time": 621.48,
+      "end_time": 629.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, in other words, my point is always that, you know, I am just being. And this is what you get."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "147b5b6e-6819-47b0-97f4-b4284ba7d221",
+      "start_time": 629.48,
+      "end_time": 636.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And there's nothing I can do about it. And you're free to not like it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "94672e31-7968-4365-9d93-72790fd3c3df",
+      "start_time": 637.48,
+      "end_time": 647.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, what about the people out there, including critics, who would say, why didn't you write another Color Purple?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b53c08d0-744f-49f5-abf3-24c502d4cf6c",
+      "start_time": 647.48,
+      "end_time": 654.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, good grief. Why? That's like saying, why don't you have another child? One is plenty. Really."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "943f97b9-d924-418e-9165-ab2113a70701",
+      "start_time": 657.48,
+      "end_time": 661.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You haven't been happy with your critics at all, have you?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6077ab6c-7bd6-41dd-93b3-20411c912290",
+      "start_time": 662.48,
+      "end_time": 672.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have not had really good ones, generally. I mean, I feel like most of what they say is so superficial and boring,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a4a617df-6e23-4435-bf13-99794403e08a",
+      "start_time": 672.48,
+      "end_time": 678.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and it's not about what I'm writing about. And so often I have to say I don't read them."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7b0d1890-95b2-49ee-be18-87102bab7e33",
+      "start_time": 678.48,
+      "end_time": 682.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, because it's as if they're writing about somebody else."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6dafa682-ca27-48c2-a1d2-dcb2183d9cf4",
+      "start_time": 683.48,
+      "end_time": 693.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I have had good critics, I've enjoyed them. I mean, I remember there was a woman, Deborah McDowell, that I liked a lot,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b03a5fd0-2121-42d7-85d0-0c438985c9dd",
+      "start_time": 693.48,
+      "end_time": 705.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "because she would, her criticism was very thoughtful. She sort of had a holistic view and knew some of the history."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2a69dda9-2d43-43cc-9edc-34532ef7d59e",
+      "start_time": 706.48,
+      "end_time": 713.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you know, I feel the honest truth is that I don't think critics can help me. I really don't."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f6f7da57-51d5-433f-8b75-26a3c51ddaec",
+      "start_time": 713.48,
+      "end_time": 725.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, I feel like I'm really doing the best I can do with what I see my job here to be. I mean, I really am."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "33dabcd4-09af-4190-9349-1b532d46d68d",
+      "start_time": 726.48,
+      "end_time": 739.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'm doing it in the way that, I have to say it this way, that my ancestors really like."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "727dbac0-2caf-4691-b76d-b8b821f2e275",
+      "start_time": 745.48,
+      "end_time": 750.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that they're tougher on me than critics are. Much."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c0d15b52-7789-49c0-acf1-832db71eb001",
+      "start_time": 750.48,
+      "end_time": 756.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, there was that feeling within your family, don't put me in the book. Wasn't that kind of a..."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fade2ec6-1354-4675-a271-809d76a2436a",
+      "start_time": 756.48,
+      "end_time": 758.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You mean my Aunt Sally?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5cf69a8e-161e-4fcf-9369-a069745b074b",
+      "start_time": 758.48,
+      "end_time": 759.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "005d3e6f-c8f9-4ebb-a875-fc1b0916c8d3",
+      "start_time": 759.48,
+      "end_time": 769.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whoever she is in this story. I don't mean that even, because she was alive when she said that."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "64b366e1-27cf-4bca-a62d-442f5af6461f",
+      "start_time": 769.48,
+      "end_time": 783.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I mean that I feel very much accountable to literal ancestors. I mean, people who have been dead for the hour long, they've been dead."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a02b3e36-219f-4972-af1b-d980b467bd76",
+      "start_time": 783.48,
+      "end_time": 810.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that to maintain the connection that I feel with them, you know, I have to maintain a certain level of, I don't know, commitment, fidelity, truth."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dbe6c469-5451-4a20-9138-3ea540c799bc",
+      "start_time": 810.48,
+      "end_time": 819.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And beside that, the criticism is just so sometimes beside the point, I mean, really."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4edd8f32-df93-480d-b939-470c50029ec8",
+      "start_time": 832.48,
+      "end_time": 838.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not to mention how painful it is to realize that you just almost completely misunderstood."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fdd20a2d-51ec-4405-a416-fcd864d04dde",
+      "start_time": 838.48,
+      "end_time": 840.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that's the worst I would say."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9100dad6-d9b6-4b1e-a669-c2aa591b9bd3",
+      "start_time": 840.48,
+      "end_time": 851.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's very hard. I mean, when I learned that there were people who actually read The Color Purple and thought I hated anybody."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d8a1a42c-59ea-47ab-b09e-9eb84f583908",
+      "start_time": 851.48,
+      "end_time": 853.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Especially men, especially black women."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "88a251e2-8542-4aaa-9654-951515d50373",
+      "start_time": 853.48,
+      "end_time": 861.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was so difficult. I couldn't understand how they could feel that way. I really..."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6885bf32-c89a-4268-b512-d35df438bae6",
+      "start_time": 861.48,
+      "end_time": 872.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And also the implication of that was, you know, difficult because, and I've seen this lived out."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ef737e52-08b7-4ca2-b6d3-321638e9a26b",
+      "start_time": 872.48,
+      "end_time": 880.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I feel that because of that criticism, I have been cut off from a generation of young black men."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "abfd2a44-4c08-4676-8be9-0c1f031de7e0",
+      "start_time": 880.48,
+      "end_time": 890.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think this is a tragedy because reading me could have helped them. And I know it. So it's very painful."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "264d8841-709a-4b40-b1f9-6169d61f9213",
+      "start_time": 890.48,
+      "end_time": 902.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, because they've been really taught and indoctrinated that, you know, I hate them and that's all there is to it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4b1432e5-678b-48ac-97ba-85b3af595c77",
+      "start_time": 902.48,
+      "end_time": 906.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And why read somebody who hates you and da da da da da da."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7651e999-ec36-4bea-ae26-bb43d5fe92dd",
+      "start_time": 906.48,
+      "end_time": 917.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so it's only been in the last, you know, I guess five or six years that that has really changed."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ec155d90-89ec-4218-8139-445debf6839e",
+      "start_time": 917.48,
+      "end_time": 925.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'm getting a connection to, you know, young black men who read for themselves and think for themselves."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4f5f6b86-dc3e-402e-b58d-3b2ba9db86d9",
+      "start_time": 925.48,
+      "end_time": 931.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And are not so swayed by the older men who are more threatened."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f8efcf02-14d2-485c-a4c3-234cfc12c8e5",
+      "start_time": 941.48,
+      "end_time": 942.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that's a good sign."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6f99f93c-9e6b-4cb7-b7e9-80cb710237c7",
+      "start_time": 942.48,
+      "end_time": 944.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6880f53b-1fdb-4ecb-996e-106a37b7d4f3",
+      "start_time": 947.48,
+      "end_time": 957.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, I think because I've been really involved in the Mumia Abu Jamal case, been trying to get him out and, you know,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8c751ca9-f9ea-41aa-ad13-8c2811b21111",
+      "start_time": 957.48,
+      "end_time": 973.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "so young black men who are politicized around that issue, you know, actually get to see me, you know, being active and understanding of that situation."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bd4b213e-974a-423b-b64f-360b23dfb817",
+      "start_time": 973.48,
+      "end_time": 976.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so it's helpful."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d47f4861-f279-41a4-a079-f11f35a04504",
+      "start_time": 989.48,
+      "end_time": 991.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you watch the debate last night?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b729654e-0c93-45d9-8ba3-7e6fd349e8b7",
+      "start_time": 991.48,
+      "end_time": 996.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I was in the."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ff81f352-95cd-4cd0-81d3-c670645b02d4",
+      "start_time": 996.48,
+      "end_time": 1000.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I did something and then I went out to eat. So we missed it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8bdfbf66-18f9-4a2e-a7a9-233dfa12729c",
+      "start_time": 1000.48,
+      "end_time": 1002.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you see it? Yes."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1e6f9292-26ee-4f09-b3e3-4dcf07dcf07b",
+      "start_time": 1002.48,
+      "end_time": 1011.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was just brought to mind one moment in which something said about that that man who was his name was dragged to his death in Texas."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1790ffe6-dac5-44e2-bb42-e0837f8e0835",
+      "start_time": 1011.48,
+      "end_time": 1016.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The subject was brought up and Bush said with kind of a sort of a kind of a silly grin on his face."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7b7067af-d895-4260-a8bf-f405f9b6c63b",
+      "start_time": 1016.48,
+      "end_time": 1021.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He said, well, he said, we're going to kill it. We're going to kill the three people who killed him."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "046b9f4a-27cd-4c34-8c7d-ac583f8d8a71",
+      "start_time": 1021.48,
+      "end_time": 1025.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And big smile on his face like, you know, he's a madman."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ccf98b43-de3f-4f49-9893-5a61cd1d6341",
+      "start_time": 1025.48,
+      "end_time": 1027.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He is. He's a madman."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "336cd1ee-3a99-417e-870b-bfbde840d01e",
+      "start_time": 1027.48,
+      "end_time": 1031.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What a response. You know, he killed somebody every two weeks. I mean, I was reading that somewhere."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c36453d6-2a91-48f9-849f-451337880b7f",
+      "start_time": 1031.48,
+      "end_time": 1035.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's the point. He's going to kill three more. Actually, only two out of three had it wrong."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cfc6217d-fd2f-4c1d-b09e-312953691640",
+      "start_time": 1035.48,
+      "end_time": 1039.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But he would do it with a sort of like a we got him."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d1eb1710-81c8-49df-be1a-c410bac3a910",
+      "start_time": 1039.48,
+      "end_time": 1043.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, no, no, that's really terrible."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c4538d7e-b2e0-4a31-88a7-942ded876a83",
+      "start_time": 1043.48,
+      "end_time": 1049.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I'm really I would like Ralph Nader and"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5305a06f-069e-4ce9-8e74-2fd1d408bca1",
+      "start_time": 1049.48,
+      "end_time": 1054.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Winona LaDuke to be on the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2966033a-d0db-4846-a03f-5ef6d4ad7bff",
+      "start_time": 1054.48,
+      "end_time": 1058.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you know, to be heard."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2e2b9797-6aa2-4681-86d9-9edb9c1de7d0",
+      "start_time": 1058.48,
+      "end_time": 1064.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, I think it's just absurd that we get to listen to these two people as if they're the only people to listen to."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "912a756a-ff28-44d5-9d0f-6ec62405b823",
+      "start_time": 1064.48,
+      "end_time": 1067.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They're not. Believe me. What's the interesting point?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b90b1a98-171a-436e-9bcf-623d032b05ba",
+      "start_time": 1067.48,
+      "end_time": 1073.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If Nader was actually on that debate, I mean, he would. I mean, he never has a chance, of course, but he was like, pick up."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3c174716-2eea-425c-b3fb-9ac5ec52a2a5",
+      "start_time": 1073.48,
+      "end_time": 1078.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Imagine what it would be like just to have ideas that are different and views that are different."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e9ef0cc1-b8a6-458a-b73e-c85ac7fa9c88",
+      "start_time": 1078.48,
+      "end_time": 1085.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or a program. Exactly. And we're desperate for it. I mean, I mean, we deserve better."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fd773c93-77b2-4882-95e7-95686e688595",
+      "start_time": 1085.48,
+      "end_time": 1092.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We deserve, you know, to hear all kinds of views. I mean, we're very varied as a country."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ece762c3-f29b-4bbe-940f-57e3d4619823",
+      "start_time": 1092.48,
+      "end_time": 1097.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c8833521-0ea1-446f-a467-047e03adfdd0",
+      "start_time": 1097.48,
+      "end_time": 1105.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I have to say, you know, I'm so I'm so moved by the fact that Nader"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d17e2775-65e0-4568-b870-f98b10711b45",
+      "start_time": 1105.48,
+      "end_time": 1110.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "just keeps going and he just keeps plugging away."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c49c170a-0fbc-4cf7-959d-0501ae02f5d1",
+      "start_time": 1110.48,
+      "end_time": 1117.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, the only future. There's no, you know, nothing there for him in a sense."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "08536704-46ce-45a8-bd57-3d9c66b78ffc",
+      "start_time": 1117.48,
+      "end_time": 1127.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, you know, there is and it's for him and it's for all of us is to see that there is someone who represents us,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "25240f04-9d4e-44b9-8b3f-91dbf74ff1bb",
+      "start_time": 1127.48,
+      "end_time": 1133.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "because just as he's not permitted to speak in that forum, we aren't."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9293330a-71ef-4a05-b1ef-16f3bf6ce522",
+      "start_time": 1133.48,
+      "end_time": 1140.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, and he makes us really see that. And that's really good."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4b1ba03c-32d3-49ed-9ef6-237ccdbfaed7",
+      "start_time": 1140.48,
+      "end_time": 1145.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All those people who really think we're living in a democracy."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d6e23cce-4f1d-4d0f-b68d-b97dbad5802c",
+      "start_time": 1145.48,
+      "end_time": 1151.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just wish Gore were a better person. I know."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d6abe836-5aea-48ad-92f5-b26269591544",
+      "start_time": 1151.48,
+      "end_time": 1160.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sometimes I like him. You know, I mean, there's a way in which he's he can be very."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ef50de60-c79a-426e-b34b-321152261e3d",
+      "start_time": 1160.48,
+      "end_time": 1165.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm sorry. I just I wanted to tell you that your story to hell with dying."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c690710f-8962-4ad2-90e7-3eb44687aca9",
+      "start_time": 1165.48,
+      "end_time": 1169.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I had a serious."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b5d6f057-11b0-4cb7-a6c0-3ac270370cfa",
+      "start_time": 1169.48,
+      "end_time": 1173.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I read it a hundred times."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a83a5e6e-3996-4bc7-bc5e-1b6a9caba146",
+      "start_time": 1173.48,
+      "end_time": 1175.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are so welcome."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "efa16adb-4b3f-4bbc-941e-df13e2405f1a",
+      "start_time": 1175.48,
+      "end_time": 1183.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I had a Mr. Sweet in my life. Bless you."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "19af4842-c8f4-452e-a1b1-7cecf56b9c3b",
+      "start_time": 1183.48,
+      "end_time": 1187.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That all the time. I do. I get it often. I'm so glad. I love to see."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "13775393-7cda-4306-85a7-0e02f48e06b7",
+      "start_time": 1187.48,
+      "end_time": 1192.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know I even feel like I can identify maybe it's just because they come up to me."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "13b2ed95-9adf-4953-8802-7c3e3cf818e5",
+      "start_time": 1192.48,
+      "end_time": 1200.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But sometimes I feel I can tell the people who read my work because they seem a little freer."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c81c471c-fe40-468b-a1d3-e873d3323dcb",
+      "start_time": 1200.48,
+      "end_time": 1209.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, they seem a little less burdened by, you know, the crap from."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ddc03585-41c7-4f5f-902d-05f2bb141698",
+      "start_time": 1209.48,
+      "end_time": 1212.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I like that."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6718c02a-ffd3-4671-8793-711708bc1839",
+      "start_time": 1239.48,
+      "end_time": 1242.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I like that."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "48530457-851b-4ea2-bec6-293447cc9fa9",
+      "start_time": 1242.48,
+      "end_time": 1245.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My son."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b90d22df-69d3-4b03-b163-47e693e11204",
+      "start_time": 1245.48,
+      "end_time": 1248.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2c18de1b-a264-43a0-b0c7-95b69d7158ec",
+      "start_time": 1252.48,
+      "end_time": 1256.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is a very interesting interview that you did with the woman I know,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "91677eb3-196b-4956-82d5-d421efa615af",
+      "start_time": 1256.48,
+      "end_time": 1259.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eleanor Wachtell from the Canadian Broadcasting Company."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "899f2a8b-dd33-4d6f-aecf-b1f09fadc570",
+      "start_time": 1259.48,
+      "end_time": 1263.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did a telephone."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "12da3aad-789f-4731-b1b7-6e601a60a82e",
+      "start_time": 1263.48,
+      "end_time": 1266.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A couple of things."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d65627f5-47a7-4c7d-8cde-d91f74be4413",
+      "start_time": 1266.48,
+      "end_time": 1274.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One was referred to your advantageous heritage, which we probably pretty much talked about."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "055a3e75-99e0-47c0-91e1-f2836903aefa",
+      "start_time": 1274.48,
+      "end_time": 1280.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sometimes you think that struggles about identity will never will never end."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6f64c669-68f2-4e34-97bd-b69953942416",
+      "start_time": 1280.48,
+      "end_time": 1286.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was that. Do you mean that on a personal level as well as a."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9ff57ed8-2fad-4b3a-9f7a-16766b7fb8c9",
+      "start_time": 1286.48,
+      "end_time": 1291.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I guess what I mean is that many people are unable to face their identity,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c383d3cf-3c29-4098-aa11-3d8393e49cc4",
+      "start_time": 1291.48,
+      "end_time": 1295.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and especially as it changes, it's not fixed. It changes."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a4404a62-7b74-4f06-8292-1ee820624e62",
+      "start_time": 1295.48,
+      "end_time": 1303.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so you you're you're asked to continually sort of reassess what it is."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7f1e5cc3-6fa8-42cd-8f46-ad264ad2aa81",
+      "start_time": 1303.48,
+      "end_time": 1313.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you describe yourself now? Well, a few of the things I know about myself is that I have a tri-racial."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4542b79d-62aa-434b-be77-bfba7051430a",
+      "start_time": 1313.48,
+      "end_time": 1317.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tri-racial. Tri-racial. Black, white, Indian."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "50fe2881-41eb-4378-90ae-126dba6c5cfa",
+      "start_time": 1317.48,
+      "end_time": 1323.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. African-American, Native American and Euro."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "129f2f93-9e60-4a3c-b5b0-f88ff8d1f0df",
+      "start_time": 1323.48,
+      "end_time": 1329.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, the Scotch Irish part."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "042711ac-d8ba-4a1e-8038-f8464dbe0230",
+      "start_time": 1329.48,
+      "end_time": 1333.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Probably tri-spiritual as well."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e89732d5-4b7f-4002-a2a6-eb437530eb02",
+      "start_time": 1333.48,
+      "end_time": 1346.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, I was raised as a Christian and, you know, now I love Buddhism and I love Earth religion."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4757d3d3-4f73-4204-8c19-597de733d49d",
+      "start_time": 1346.48,
+      "end_time": 1351.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You weren't Jewish when you were married to a Jewish man. No."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e1c48cb0-7a45-45be-b44b-fff9069c8398",
+      "start_time": 1351.48,
+      "end_time": 1354.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. That would have made it quad right."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "21aeecb8-38dc-444a-8d10-0b0d47567925",
+      "start_time": 1354.48,
+      "end_time": 1361.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That would have made it quite right. Exactly. And I also love both women and men and trees."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5027d88f-f59c-4ac0-9bae-931a582069d3",
+      "start_time": 1361.48,
+      "end_time": 1367.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that's three trees. They're all three. You can always hug a tree."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e7494674-f4b2-42e8-97f8-0ac17872f2c3",
+      "start_time": 1367.48,
+      "end_time": 1372.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So and that's always changing. I mean, it's always it's always getting more."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "78836a92-6a59-40f7-a780-67f07141c11f",
+      "start_time": 1372.48,
+      "end_time": 1377.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's always, you know, it's very fluid."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9d1989cf-04be-4437-be7f-326a3d7a91db",
+      "start_time": 1377.48,
+      "end_time": 1385.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think one of the reasons I love Buddhism is because one of its primary observations is that there is no self."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8826621d-b4f6-4ba9-81dd-67ac71dbd75b",
+      "start_time": 1385.48,
+      "end_time": 1390.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, you know, that is just so we're all made up. We think there's a self."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "99ba55ab-2dbc-4175-96d1-4a98a60cf1d5",
+      "start_time": 1390.48,
+      "end_time": 1397.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But if we sit long enough, another thing that meditation helps you with, you see that, you know, what you think of as yourself is always changing."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cd71a9b9-3736-4dd9-a43d-71a52792f534",
+      "start_time": 1397.48,
+      "end_time": 1401.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's always, you know, it's here and then it's not here."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "38abbcab-bc5d-419b-b189-e37a53a0cbd5",
+      "start_time": 1401.48,
+      "end_time": 1409.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that's what I meant. You know, just that, you know, the way other people see you, the way they need to classify you."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8ee71532-835c-4ddb-9bb4-c39f774f9bc3",
+      "start_time": 1409.48,
+      "end_time": 1419.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "People unfortunately just get stuck there trying to pin down something that's really always moving."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "244559ce-6add-4cd5-899b-3e3336ef2c72",
+      "start_time": 1419.48,
+      "end_time": 1423.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And always will move. Yes, hopefully."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "95854a2c-015d-4158-9110-9256de80b11b",
+      "start_time": 1423.48,
+      "end_time": 1430.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because I find with myself that I love I love watching myself change."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "20de42a1-6c1c-4f40-8033-a85acc2a5020",
+      "start_time": 1430.48,
+      "end_time": 1436.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love seeing that there's all there's more here. There's a bigger room to move into."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9665f77c-eb6f-4f1f-ada4-c29e62c0e64f",
+      "start_time": 1436.48,
+      "end_time": 1445.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's and I don't know about you, but, you know, your dreams often will tell you that you're about to move into a bigger area."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0c67bb08-9330-4954-bb6c-ec1cbf7410f4",
+      "start_time": 1445.48,
+      "end_time": 1454.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, in your what you can hold psychically and in your consciousness because you will start to dream about houses."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a7383b8f-2d28-4844-b5cb-f2ec759995a9",
+      "start_time": 1454.48,
+      "end_time": 1463.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you'll be in a house and suddenly you'll go to through a door and there'll be a couple of rooms you never knew you had in your house."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "40bd4586-dbd3-4b94-a4fd-b60e201e66b4",
+      "start_time": 1463.48,
+      "end_time": 1466.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Has this ever happened to you?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cd0f03d2-f4fd-4e20-a8da-85cdabc2915f",
+      "start_time": 1466.48,
+      "end_time": 1469.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, as a matter of fact."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "78b6dce5-c5c3-4cec-9049-00b9db1770c1",
+      "start_time": 1469.48,
+      "end_time": 1474.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I wake up and I wonder where was that house?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ff338a57-0e1c-4167-8730-b455ccc8d8d6",
+      "start_time": 1474.48,
+      "end_time": 1479.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are the house. You are the house."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cfffd56d-8cf7-4ccc-bb4b-7eec3bd134b8",
+      "start_time": 1479.48,
+      "end_time": 1494.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And some whole other area. Is this Freud? No, this is just this is just paying a lot of attention to your growth."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f2385b6b-bd6f-4479-a1d6-5c37ca79a4c2",
+      "start_time": 1494.48,
+      "end_time": 1504.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And understanding how your dreams are totally about you know what's going on."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c28891e2-47aa-4904-b9d7-a99f50192031",
+      "start_time": 1504.48,
+      "end_time": 1508.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll think on that."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1ec94bae-67f3-401b-94cc-1d859be00120",
+      "start_time": 1508.48,
+      "end_time": 1522.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, it's true."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5a95e625-9cf8-4e10-8a5d-2562af7ae175",
+      "start_time": 1522.48,
+      "end_time": 1527.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But houses is not just because you want to get rid of our deadbeat tenant who doesn't pay any rent."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "405158de-4203-4064-9213-40ad2c3db875",
+      "start_time": 1527.48,
+      "end_time": 1532.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's not what I dream about."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a8ded301-a254-4cdd-9f9d-84bdd351613f",
+      "start_time": 1532.48,
+      "end_time": 1538.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But houses is not because you want to get rid of a deadbeat tenant who pays nothing or hardly anything in rent."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b648e8de-3116-4941-b8ca-4f9ece120e22",
+      "start_time": 1538.48,
+      "end_time": 1541.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You mean that's what you have literally literally."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cfbbab48-243b-4767-a84a-ca6b557e459c",
+      "start_time": 1541.48,
+      "end_time": 1547.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you think that you said you were dreaming about the house that dream about a house somewhat emptied house."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "67e10688-ed93-4cbb-843e-47ef7e7eeffa",
+      "start_time": 1547.48,
+      "end_time": 1551.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well that's interesting. It's possible. It's possible. It's probably more personal."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b205d0ef-7880-40b0-a97b-6b3947b00990",
+      "start_time": 1551.48,
+      "end_time": 1572.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think you're probably right. You never know."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1decdb84-5340-4c17-a111-8bf61eef7183",
+      "start_time": 1572.48,
+      "end_time": 1581.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are you reading anything now? Any book at all recently?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "813e52a3-7518-4e4a-9a6c-7bb976229a2a",
+      "start_time": 1581.48,
+      "end_time": 1593.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yeah. I'm always reading something. You know what the most wonderful book is by my Dharma teacher Jack Kornfield."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ea369bd6-0172-4a30-bd14-62e07ff807f4",
+      "start_time": 1593.48,
+      "end_time": 1603.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it's called After the Ecstasy the Laundry."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6eedc19d-2003-4fdf-b5a5-8163c6dca718",
+      "start_time": 1603.48,
+      "end_time": 1627.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's wonderful."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "de80d3a5-e600-488f-a1a3-904eb857fd1a",
+      "start_time": 1627.48,
+      "end_time": 1630.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your ex-husband has read the book."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ad115098-04d6-4d92-8cf1-f5e7fa470c73",
+      "start_time": 1630.48,
+      "end_time": 1633.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yes. I've sent it before I would publish it of course."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ce31360e-7b3d-40c1-9944-a77aff35db3d",
+      "start_time": 1633.48,
+      "end_time": 1635.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What did he say?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c82fb650-d9a9-4242-8630-76b511fe876d",
+      "start_time": 1635.48,
+      "end_time": 1642.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He loved it. Poor thing."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2d3db060-a9e7-4ed6-bbf7-835d935007dd",
+      "start_time": 1642.48,
+      "end_time": 1652.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh I say that because you know he's just a dear person."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a02d4a12-5341-4b58-adc9-06ad1b3b6077",
+      "start_time": 1652.48,
+      "end_time": 1658.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It just ended. It just ended I say. That's all."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "42b71293-5ee5-479e-92ec-59fc0772296c",
+      "start_time": 1658.48,
+      "end_time": 1665.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well you know it ended and then the friendship ended. And that's the hard part."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d658cdb9-be78-47c8-8dee-8451e2e662fd",
+      "start_time": 1665.48,
+      "end_time": 1672.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think it was just too much on his part to maintain. I don't think he knew how."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8aecaf60-105e-4d87-9791-6614263ede85",
+      "start_time": 1672.48,
+      "end_time": 1677.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think. I mean it didn't seem. You know when we were married his mother sat Shiva."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c45c7d40-7dc7-4c21-b10a-aa60404721a2",
+      "start_time": 1677.48,
+      "end_time": 1688.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know if that's in the notes but there seems to be more of a tolerance for just trying to cut things off."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e327198e-b39b-402b-87f5-c54cda0c4334",
+      "start_time": 1688.48,
+      "end_time": 1695.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it doesn't work well. You know I mean it just doesn't."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4a2d0e4d-360d-4afe-8fa7-4049803f0b46",
+      "start_time": 1695.48,
+      "end_time": 1712.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think for him. I mean he is he he thought that emotionally it would be better and probably less painful or whatever."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d6218278-44f4-4950-8d43-b161963da48f",
+      "start_time": 1712.48,
+      "end_time": 1721.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I think after 20 years there is a sense that we both have of loss."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "97ec6c68-73bb-443c-8e78-c7f693063145",
+      "start_time": 1721.48,
+      "end_time": 1728.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know because there there's nobody else on earth."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "204b32f8-dd24-4ad9-bc4f-b70cfb17a657",
+      "start_time": 1728.48,
+      "end_time": 1733.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That we can talk to about certain things that happened during the time that we were together there."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b4163973-e438-4f7a-9ac6-ca0713263676",
+      "start_time": 1733.48,
+      "end_time": 1741.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nobody."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "814002cf-08bf-44c7-83b1-2edc810462d9",
+      "start_time": 1741.48,
+      "end_time": 1744.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Except you could talk about it in your writing in some way."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "93294704-e323-4ed2-ace5-5bacf35eae34",
+      "start_time": 1744.48,
+      "end_time": 1751.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well you know I could. But you know what. When you don't have somebody who that you talk to that remembers."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "653ef10f-b2c9-4b81-9772-f7c1f66273d4",
+      "start_time": 1751.48,
+      "end_time": 1756.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you just kind of. You know it loses something even even in the writing."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "badf1eef-69b9-4191-a82c-8507ccd19ab5",
+      "start_time": 1756.48,
+      "end_time": 1764.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean I have written a lot and I think he he tends to he really love the folk language in Mississippi."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ad6ddc11-2d9d-4008-aefc-b1445e2564c1",
+      "start_time": 1764.48,
+      "end_time": 1770.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He started talking like we used to see that we said well you actually sound more like a cracker."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8b0d3f64-be0d-42b5-9aa3-b0407e89d61b",
+      "start_time": 1770.48,
+      "end_time": 1776.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But he would you know he would talk the talk."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1a73a869-d4ed-44d5-8e6c-6a64c3301d62",
+      "start_time": 1776.48,
+      "end_time": 1785.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that was his way of trying to remember."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f12c381e-c7b9-4fe7-9899-2424d684f53e",
+      "start_time": 1785.48,
+      "end_time": 1789.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How was your time at Sarah Lawrence."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "835f4cc5-4d45-4496-a3d4-dcca8a21e6ae",
+      "start_time": 1789.48,
+      "end_time": 1799.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well it was mixed. It was great for my writing because people understood what writing was."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "69b7465d-18f9-4f50-b01c-4f94b05f5949",
+      "start_time": 1799.48,
+      "end_time": 1807.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I loved you know my teachers. But it was extremely lonely."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2bfaa301-454a-4f07-84a9-99030a39dc6e",
+      "start_time": 1807.48,
+      "end_time": 1816.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I was you know probably the poorest student they'd ever had at the school."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7776ce94-97c8-4541-b540-79f3a63bb0a3",
+      "start_time": 1816.48,
+      "end_time": 1820.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was hard."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bc7d0115-8af9-4954-aa0f-f7f41a87e247",
+      "start_time": 1846.48,
+      "end_time": 1858.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you're saying I'm OK."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "18bdfb2b-1130-4403-8f63-9048b55b10df",
+      "start_time": 1858.48,
+      "end_time": 1867.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e9a17926-f7db-4cfb-852f-b702e7c87369",
+      "start_time": 1888.48,
+      "end_time": 1907.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ten eleven."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5ebf5244-3311-4ad7-badf-df1ffe144c99",
+      "start_time": 1907.48,
+      "end_time": 1910.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I had a book out last year a biography of Edward Albee."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "804e7809-63b2-4835-a033-34fee25a2b11",
+      "start_time": 1910.48,
+      "end_time": 1913.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Really. What's it called."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b2562e78-1cca-4e25-8770-30686ab5cf0d",
+      "start_time": 1913.48,
+      "end_time": 1916.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Edward Albee a singular journey. Simon Schuster wrote it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "775d3131-216a-4fa1-a938-ebb903fcc620",
+      "start_time": 1916.48,
+      "end_time": 1919.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have a copy. I don't have with me."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c73e6a7a-89fb-4825-9d06-50e145d71190",
+      "start_time": 1919.48,
+      "end_time": 1923.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've done a number of books. That was the last one."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "51e29043-ffa4-44ef-88a6-98f8b353191b",
+      "start_time": 1923.48,
+      "end_time": 1926.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Got very good reviews except in the New York Times. Oh really."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "74bee91d-903e-4bce-b6f5-80aaf7d9f4a8",
+      "start_time": 1926.48,
+      "end_time": 1931.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh I was down in the country."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e85f1601-165a-4c71-bd10-e416bd59a879",
+      "start_time": 1931.48,
+      "end_time": 1936.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's been a long time. Three and a half years on."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "337bc000-0b76-40d3-9427-42a488a75968",
+      "start_time": 1936.48,
+      "end_time": 1943.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So what did you think after three years. Well I began by liking his work and just found out so much more about his life."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e9b4b3bb-d49f-4e32-b7c2-af6aa1d348cf",
+      "start_time": 1943.48,
+      "end_time": 1947.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Among the playwrights incredibly interesting."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f1969cec-c71a-4ce1-b806-0091504dfdee",
+      "start_time": 1947.48,
+      "end_time": 1953.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And as in the title of Singular Life a singular journey a very lonely life in many ways."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7b79b423-31c9-4698-9e0c-4fb3455a3918",
+      "start_time": 1953.48,
+      "end_time": 1960.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adopted the age of two weeks and brought up by a very rich couple in Westchester and never never tracked down his natural parents."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8c5cff3b-d803-4ae3-a32d-e140bc199c7f",
+      "start_time": 1960.48,
+      "end_time": 1965.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so much of his work comes out of the life that he led up there in Westchester with his family."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0617e578-fa7c-4c63-89c4-1a6a946ab6c1",
+      "start_time": 1965.48,
+      "end_time": 1970.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Had no understanding of all at all. You know who he was and what he was what he wanted to write."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1a22820d-4f40-4aa3-92a1-69a3291ebf88",
+      "start_time": 1970.48,
+      "end_time": 1975.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gosh I had no idea but I dealt pretty deeply into it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "93551b61-7381-43c6-a95e-78150a7ef5f6",
+      "start_time": 1975.48,
+      "end_time": 1979.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was not authorized but he was very cooperative. I've known him a long time."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "097442d5-a761-478a-98f3-b6abbcde1876",
+      "start_time": 1979.48,
+      "end_time": 1985.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We talked just endlessly about his alcoholism. Just everything he wants."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "35196e09-44a4-4e9f-a086-7f2d828abcb9",
+      "start_time": 1985.48,
+      "end_time": 1988.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f75054cc-97bf-4181-b2d7-2a510507eae5",
+      "start_time": 1988.48,
+      "end_time": 1995.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Imagine being that mind and that spirit in a house."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e36f7e8b-c03d-4687-ae4c-2dec0c1d85e1",
+      "start_time": 1995.48,
+      "end_time": 1999.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a house that nobody knew. That nobody knew what they had."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bb8f799d-c728-48f9-8249-7fd4018e9197",
+      "start_time": 1999.48,
+      "end_time": 2003.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well did they know what they had with you? No."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "abbf9ce6-40ee-47ba-8160-58fd86f38823",
+      "start_time": 2003.48,
+      "end_time": 2006.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Come to think of it. No."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d20da9fc-2d8b-489d-940e-bc5113d397b6",
+      "start_time": 2006.48,
+      "end_time": 2012.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maybe every artist is a singular journey. I think so. I think so."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "704c4265-d463-4388-b5ed-c1b7e4e7a416",
+      "start_time": 2012.48,
+      "end_time": 2015.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thanks a lot. Thank you. I appreciate it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6273fd35-f2ca-4731-84b0-54525927f020",
+      "start_time": 2015.48,
+      "end_time": 2018.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I will find that. I would like to read it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bf3f5ddd-744c-4cc4-bce4-843d9e6ff84e",
+      "start_time": 2018.48,
+      "end_time": 2026.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because I found his work is very strange. Some of it is really wonderful and some of it I just am puzzled by."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9745c428-9600-4af1-b1a4-6e7d10c8f4a9",
+      "start_time": 2026.48,
+      "end_time": 2031.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some of it is puzzling. But also as I do point out in the book that almost all of it comes right out of his life."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6251b896-a3e7-46ef-964c-d0cbbbe285c2",
+      "start_time": 2031.48,
+      "end_time": 2032.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6ef2ff0c-221a-4f9d-952e-995f87ea0a0e",
+      "start_time": 2032.48,
+      "end_time": 2039.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is a certain twist to it. Somebody like Tennessee Williams you know how it comes out of his life."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3965a9fd-181e-469a-9a60-7efdb4f89e52",
+      "start_time": 2039.48,
+      "end_time": 2042.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You don't with all of it but in fact it all does."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c4454339-4e91-45bd-87fb-26427f796f09",
+      "start_time": 2042.48,
+      "end_time": 2048.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I tend to be more trusting of work like that. Because I know that there is no choice."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "888259cd-cb39-4471-9930-966a0e64e1e4",
+      "start_time": 2048.48,
+      "end_time": 2053.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are dealing with the stuff. You are dealing with..."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "aff67a17-da3a-4964-ade7-c30380d86dcc",
+      "start_time": 2053.48,
+      "end_time": 2059.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well you have what you have. Talk about your family heritage. That is your heritage."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "14b3e491-c8b4-407f-bbe2-caa7b8d6bb28",
+      "start_time": 2059.48,
+      "end_time": 2062.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That is your material. Exactly. Right."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c02f906b-d68c-458c-807f-67fb21a62e9c",
+      "start_time": 2062.48,
+      "end_time": 2079.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it really is entrusted to you. I often marvel at the fact that I, coming from this little place in the countryside of Georgia,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ed2436ed-2476-48e4-b1c6-4bdae4f1c3b9",
+      "start_time": 2079.48,
+      "end_time": 2086.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "should actually end up at Sarah Lawrence as a place where I would start learning my craft."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "830b49da-01e5-4d76-9897-28918261cf71",
+      "start_time": 2086.48,
+      "end_time": 2098.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean how is that? Surely I am then expected by somebody who is all around me to do something with that."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d79b2a8e-8830-4fb6-b99b-c8e7dec79bbc",
+      "start_time": 2098.48,
+      "end_time": 2111.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not to honor this passage. Gosh. I don't think I would have made it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "63014454-d564-4957-ac53-6900592be1a9",
+      "start_time": 2112.48,
+      "end_time": 2116.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was that the first turning point? To Sarah Lawrence more than Spelman?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9700f3f9-f922-48e8-8394-146ebdd0fa97",
+      "start_time": 2116.48,
+      "end_time": 2123.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh I think Sarah Lawrence encouraged me because when I got there people, you know as Spelman I would say I am a writer."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c81c7493-b376-4ea7-9d91-90deb0d25fe9",
+      "start_time": 2123.48,
+      "end_time": 2133.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am writing poetry. You can publish in the poetry magazine. But nobody really got how it is a passion."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5199b849-1d6e-4a22-843f-475201f85885",
+      "start_time": 2133.48,
+      "end_time": 2141.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is a hard thing. And at Sarah Lawrence with Muriel Rukeyser and Jane Cooper and all those people,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a246f0c8-bdc3-4fc0-be30-0ac0274a18dc",
+      "start_time": 2141.48,
+      "end_time": 2146.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it was, oh you are a writer. Great. Well here is a pen. I mean whatever."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "18cbfb12-2cb7-4865-85e9-ec78ebc7bacc",
+      "start_time": 2146.48,
+      "end_time": 2154.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. It just felt more like home in that way."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "627f75f7-88c9-4c31-81f2-58b0366751f4",
+      "start_time": 2155.48,
+      "end_time": 2160.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And they weren't afraid of my strangeness, whatever it was."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b4debeb4-49ae-4aeb-a238-461728e8244b",
+      "start_time": 2160.48,
+      "end_time": 2168.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean now that I am older I can see that when you encounter a young person who is somewhat strange,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "55a15e5e-e98b-4423-a06d-71855d716bce",
+      "start_time": 2168.48,
+      "end_time": 2176.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you know that there is a reason and that they are bringing whatever strange gift they are."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a052b7aa-1dc9-4b36-a8d6-99d9fd70da39",
+      "start_time": 2176.48,
+      "end_time": 2178.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When you say strange, what do you think?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8117d8a2-0f8d-407d-b9b5-70377dfccfdf",
+      "start_time": 2178.48,
+      "end_time": 2182.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well at Spelman I always felt I didn't fit at all anywhere."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0ad0402b-801f-4229-aa0c-d12eb41e00b7",
+      "start_time": 2182.48,
+      "end_time": 2194.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean I love poetry and books and music and I paid as much attention to Russian literature, Tolstoy for instance,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "77c8c1ba-75f2-46c4-a932-2a189ddbba93",
+      "start_time": 2194.48,
+      "end_time": 2201.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "as many of the other girls paid to make up and clothing and boys."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "82dbadd7-dd4c-4d0f-94e8-1ba9696f2167",
+      "start_time": 2202.48,
+      "end_time": 2212.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So when I got to Sarah Lawrence I realized that everybody was already really what they were going to be."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "975eb70e-8c58-4d9a-9fc9-f217364b5b30",
+      "start_time": 2212.48,
+      "end_time": 2217.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean they were just, the painters were painting, the writers were writing, the dancers were dancing,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9c76b490-5790-4eb6-8aa0-e53405e07691",
+      "start_time": 2217.48,
+      "end_time": 2222.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the singers were singing and nobody cared anything about makeup. Nobody wore any."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c4a201a3-150d-4ee5-9fc6-e102b56592da",
+      "start_time": 2222.48,
+      "end_time": 2228.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nobody cared very much about, I mean they had lovers but the lovers were not uppermost."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ed2da0fb-21bf-46cb-a71c-9ebab1e4decc",
+      "start_time": 2228.48,
+      "end_time": 2242.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The art was. And so to have teachers who accepted that and thought it was fine was so good for me."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "20a34e73-0066-41c0-a0a9-082df89c74ce",
+      "start_time": 2242.48,
+      "end_time": 2248.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's why in meditation when Muriel popped up I was really glad to see her."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "67b5dd91-3479-44a0-9ee7-87d570c07d6b",
+      "start_time": 2249.48,
+      "end_time": 2252.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I was glad to see that she was well."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "832683ba-4801-4661-bfec-7f4da20d21aa",
+      "start_time": 2255.48,
+      "end_time": 2264.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because she and I, it's hard when you have nothing and people are helping you and if you have pride as well,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "87580829-0185-4f07-952c-9c092a4222e0",
+      "start_time": 2264.48,
+      "end_time": 2269.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "which I always did, we would have battles."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "719a305a-70c5-4f1c-a8c3-0d57f02fa65a",
+      "start_time": 2270.48,
+      "end_time": 2277.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So toward the end it wasn't as close as it had started out."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "94109774-b158-4ef2-b161-58555160da5c",
+      "start_time": 2278.48,
+      "end_time": 2284.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it was great to see her and just to feel that that was completely healed."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b433d215-ed1a-48be-acbc-83afb5715e36",
+      "start_time": 2285.48,
+      "end_time": 2289.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In terms of work, the first novel came after Sarah Lawrence or during Sarah Lawrence?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5c8e8397-03ef-4a41-824f-8dbf24ecf055",
+      "start_time": 2289.48,
+      "end_time": 2290.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7e7106ef-c797-4400-ada6-7bbde4a5c02a",
+      "start_time": 2290.48,
+      "end_time": 2291.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "63358ed2-a7f1-4479-b8e9-1eea0bf5ca2e",
+      "start_time": 2299.48,
+      "end_time": 2310.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I've enjoyed this very much more than I thought I would."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5779d556-00c7-45b6-b985-d0519a057b3f",
+      "start_time": 2310.48,
+      "end_time": 2312.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I do too."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ebb4008f-3176-4175-aa28-d69e5657fef2",
+      "start_time": 2312.48,
+      "end_time": 2314.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, good."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8499d63c-de9e-4e04-80bd-636a4385a50d",
+      "start_time": 2314.48,
+      "end_time": 2316.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good to meet you."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8ffdf06d-dccb-4c77-9e7f-4ce5dc0d632e",
+      "start_time": 2316.48,
+      "end_time": 2330.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, interviews aren't easy. I mean that's, having occasionally been on the other side of the fence."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "60b968e1-78b4-4d3a-b084-8fada7a94861",
+      "start_time": 2330.48,
+      "end_time": 2337.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yeah, God, I was telling somebody how shortly after Martin Luther King was assassinated I went to interview Coretta."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ff7f3ab2-7163-4b35-b345-9876a7b75017",
+      "start_time": 2338.48,
+      "end_time": 2345.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And first of all the machine, I thought it was working, I'm terrible with these things."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4ed8acf2-c9c4-4605-817f-7de440edabb0",
+      "start_time": 2345.48,
+      "end_time": 2349.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it had been running, running, running, and nothing was on it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "65b91b9c-3b43-4550-9385-a203cd50b107",
+      "start_time": 2349.48,
+      "end_time": 2350.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's working."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b9136582-b35f-4142-9f27-3bfc52df044c",
+      "start_time": 2350.48,
+      "end_time": 2356.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then I asked her a question which I thought was really important and I still think is important."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "219c244c-fc2b-4bd0-9efd-bd2d1dbf93e3",
+      "start_time": 2356.48,
+      "end_time": 2358.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was about him dancing."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "abb90a55-c7a9-40ea-a3ed-4a1f70e29178",
+      "start_time": 2360.48,
+      "end_time": 2364.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because he had a reputation for being a really good dancer, Martin Luther King Jr."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e57d76cc-525e-4d9d-8bc8-c30bbceef2d3",
+      "start_time": 2364.48,
+      "end_time": 2365.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martin Luther King Jr."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5357c8b2-9b5d-4f6d-9aff-c36b16b8847a",
+      "start_time": 2365.48,
+      "end_time": 2369.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And she was offended I think, you know."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fb6fa6cc-2ff5-4d91-8719-15f57f03fc03",
+      "start_time": 2369.48,
+      "end_time": 2374.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think she really misunderstood my interest."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c57a8340-6c88-4091-8d00-aa5dca36e6d1",
+      "start_time": 2374.48,
+      "end_time": 2378.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wasn't trying to make him appear frivolous."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "75c1bc19-e570-42fd-b3ae-25a7da521cdc",
+      "start_time": 2378.48,
+      "end_time": 2382.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was wanting to share this life that he had."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "81f3897b-a90e-4257-9935-6fb6a720fcd4",
+      "start_time": 2382.48,
+      "end_time": 2387.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He was someone who had a lot of life, I mean a lot of spirit."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d74ed039-da08-4f4c-b9c4-2beb25ead6eb",
+      "start_time": 2387.48,
+      "end_time": 2389.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it wasn't all quote spirituality."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f8f644fa-dcd2-4b42-911e-734a05a474d4",
+      "start_time": 2389.48,
+      "end_time": 2393.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was spirit in the sense of fun."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "578f8ff8-635a-4994-925d-5099e3ebf8a4",
+      "start_time": 2393.48,
+      "end_time": 2396.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He had a really great sense of humor."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "53a278f0-b72e-430e-aece-7853dedc3d61",
+      "start_time": 2396.48,
+      "end_time": 2400.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And legend had it he was also a great dancer."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2e8229c1-f43a-4bf1-bea5-132ed720d7be",
+      "start_time": 2400.48,
+      "end_time": 2403.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I really thought that was so lovely."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f88d068d-2aa7-46d3-b49e-2ba4b35818eb",
+      "start_time": 2405.48,
+      "end_time": 2411.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's also a wonderful antidote to somehow great people you assume somehow they're more or less than human."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "937d0ae8-6f35-40a7-8e64-3a9202db21ff",
+      "start_time": 2411.48,
+      "end_time": 2415.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know and boring and dull and can't move, you know."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "464bd61e-4f92-4a92-b6aa-f15b2e7126d1",
+      "start_time": 2416.48,
+      "end_time": 2419.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So yeah, I have been on the other side."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0bc4de38-6cd4-4ba7-a243-803ed5f08a3a",
+      "start_time": 2420.48,
+      "end_time": 2423.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was just reading the review today of the book about Einstein."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b1c3bab9-fe2d-42f4-8293-f8b3b986d351",
+      "start_time": 2423.48,
+      "end_time": 2425.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's called Einstein in Love."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "faced6a3-bb13-4256-bc45-f855fb7cef4d",
+      "start_time": 2425.48,
+      "end_time": 2427.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About Einstein and the various women."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e91c16c9-288b-4ba1-8307-6f959687c615",
+      "start_time": 2427.48,
+      "end_time": 2428.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Really?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "51f04ae5-8e03-4df3-860d-59721ac7b6bd",
+      "start_time": 2428.48,
+      "end_time": 2429.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a serious book."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5fd067ba-2310-4328-8ccd-93ae4f3b1e3e",
+      "start_time": 2429.48,
+      "end_time": 2430.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh fantastic."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d69aef4b-d4dc-4248-b8b3-30e5767af80c",
+      "start_time": 2430.48,
+      "end_time": 2432.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He had a lot of lovers?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a6ff82c5-a613-4c40-8444-f4036bd7ed86",
+      "start_time": 2432.48,
+      "end_time": 2434.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fantastic. What's the name of this book?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ba361679-c0bb-4bdb-9872-b8097cf0a1c6",
+      "start_time": 2434.48,
+      "end_time": 2436.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's called Einstein in Love."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "42d28ed5-c299-42c6-a95c-8440d3e6a430",
+      "start_time": 2438.48,
+      "end_time": 2439.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Go Einstein."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8011f7fd-00ec-45b6-a57d-70342d3177a4",
+      "start_time": 2439.48,
+      "end_time": 2441.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now we know why his hair was always messed up."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4d0531c3-1a67-46ba-aeee-b3dd28477581",
+      "start_time": 2441.48,
+      "end_time": 2443.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He was terrible to women too."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1168b903-6bcb-446e-8855-885cb9029e80",
+      "start_time": 2443.48,
+      "end_time": 2445.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yeah, I'm sure he was."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "690c4449-cbe3-4081-838b-5745b2ecbe83",
+      "start_time": 2445.48,
+      "end_time": 2448.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He ditched his first wife to marry his second cousin."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ec1f2237-643a-47dd-99ed-914debbd8cbf",
+      "start_time": 2449.48,
+      "end_time": 2451.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Had many affairs along the way."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a2cdbdaa-74b6-45d8-82e9-3d5033205055",
+      "start_time": 2451.48,
+      "end_time": 2453.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And he would do it with children. You name her."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6e4facc2-db3f-461a-aa3c-971e223afc3f",
+      "start_time": 2453.48,
+      "end_time": 2455.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, well there you have it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f11fd43e-98ec-4c83-be38-08625081cb13",
+      "start_time": 2455.48,
+      "end_time": 2457.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rascal."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3fafa963-dc30-4bde-92cc-0021a6d91672",
+      "start_time": 2457.48,
+      "end_time": 2459.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's close to a rascal."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b315d194-c202-4527-b572-20ddba45bbc4",
+      "start_time": 2465.48,
+      "end_time": 2467.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have your driver outside."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "91d9bada-3aa9-4415-80e6-6142ac1f5fd0",
+      "start_time": 2467.48,
+      "end_time": 2469.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ],
   "set": "Default",
   "event_id": "9080304f-eaf0-481b-bdc1-622f4b4399f6",
   "source_id": "b09c3a5f-a293-4a88-a877-e6e3da41ea80"
